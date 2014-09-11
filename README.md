@@ -18,9 +18,9 @@ As a user, I want to translate a word or sentence into Pig Latin.
 #### Details
 There are many variations of Pig Latin. For our purposes, we'll be using the following rules:
 
-* Words that start with a vowel, add 'ay' to the end
-* Words that start with one or more consonants, move the leading consonants to the end and add 'ay'
-* If 'qu' is included in the leading consonants, move the 'u' along with 'q' to the end and add 'ay' (don't skip words like 'squeak')
+* Words that start with a vowel, add 'ay' to the end of the word
+* Words that start with one or more consonants, move the leading consonants to the end of the word and add 'ay'
+* If 'qu' is included in the leading consonants, move the 'u' along with 'q' to the end of the word and add 'ay' (don't skip words like 'squeak')
 * For words that start with 'y', treat the 'y' as a consonant
 * For now, don't worry about capitalization or punctuation
 
