@@ -19,19 +19,5 @@ def pig_word(word)
 			word = word[1..word.length] + word[0]
 		end	
 		i += 1
-	
 	end
-
-	
 end		
-
-
-p pig_sentence("apples and bananas")
-
-p pig_sentence("duck")
- p pig_sentence("squeak")
-
-p pig_sentence("i am a junior developer")
-p pig_sentence("run quickly")
-
-
